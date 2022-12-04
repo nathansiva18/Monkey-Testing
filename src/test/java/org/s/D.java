@@ -49,4 +49,8 @@ private void greenKnight() {
 	{
 		System.out.println("jagades method 4");
 	}
+	public void tomAndJerry()
+	{
+		System.out.println("Scooby Dooby Doooooooooo");
+	}
 }
