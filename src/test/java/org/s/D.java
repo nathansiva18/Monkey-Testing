@@ -32,16 +32,18 @@ public class D {
     }
     private void island() {
 	System.out.println("runner");
-    }
+}
+	}
 	public void kumfuPanda()
 	{
 		System.out.println("jagades method 3");
-    }
-    private void contraFireWorld() {
-	System.out.println("5");
-    }
-    private void greenKnight() {
-	System.out.println("6.1");
-    }
+	}
 
+}
+private void contraFireWorld() {
+	System.out.println("5");
+}
+private void greenKnight() {
+	System.out.println("6.1");
+}
 }
