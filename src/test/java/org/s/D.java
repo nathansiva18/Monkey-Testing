@@ -13,5 +13,12 @@ public class D {
 	private void ramesh() {
 		System.out.println("khan");
 	}
+	private void logu() {
+		System.out.println("nathan");
+	}
+	private void sathish() {
+		System.out.println("kumar");
+	}
+	
 
 }
