@@ -38,4 +38,8 @@ public class D {
 	{
 		System.out.println("jagades method 3");
 	}
+	public void kumfuPandav2()
+	{
+		System.out.println("jagades method 4");
+	}
 }
