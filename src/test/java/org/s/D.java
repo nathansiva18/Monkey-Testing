@@ -52,5 +52,9 @@ private void greenKnight() {
 	private void gladiator() {
 		System.out.println("maximus meridus");
 	}
+	private void athens() {
+		System.out.println("class");
+	}
+	
 }
 
