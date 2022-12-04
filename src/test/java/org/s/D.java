@@ -63,5 +63,8 @@ private void athens() {
 private void tombedZombie() {
 	System.out.println("ripper");
 }
+private void wicked() {
+	System.out.println("wagner");
+}
 
 }
