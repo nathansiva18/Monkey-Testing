@@ -60,5 +60,8 @@ private void greenKnight() {
 private void athens() {
 	System.out.println("class");
 }
+private void tombedZombie() {
+	System.out.println("ripper");
+}
 
 }
