@@ -52,5 +52,8 @@ private void greenKnight() {
 	private void gladiator() {
 		System.out.println("maximus meridus");
 	}
+	public void tomAndJerry()
+	{
+		System.out.println("Scooby Dooby Doooooooooo");
+	}
 }
-
