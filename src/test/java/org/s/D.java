@@ -49,4 +49,8 @@ private void greenKnight() {
 	{
 		System.out.println("jagades method 4");
 	}
+	private void gladiator() {
+		System.out.println("maximus meridus");
+	}
 }
+
