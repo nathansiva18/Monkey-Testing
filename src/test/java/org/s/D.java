@@ -13,13 +13,23 @@ public class D {
 	private void ramesh() {
 		System.out.println("khan");
 	}
+	private void logu() {
+		System.out.println("nathan");
+	}
+	private void sathish() {
+		System.out.println("kumar");
+	}
 	public void loganthan()
 	{
 		System.out.println("jagades method 1");
 	}
-	public void sathish()
+	public void sathishm2()
 	{
 		System.out.println("jagades method 2");
 	}
+
+	
+	
+
 
 }
