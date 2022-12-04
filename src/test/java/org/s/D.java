@@ -26,10 +26,12 @@ public class D {
 	public void sathishm2()
 	{
 		System.out.println("jagades method 2");
-	}
-
-	
-	
-
+	}	
+    private void mario() {
+	    System.out.println("mario");
+    }
+    private void island() {
+	System.out.println("runner");
+}
 
 }
