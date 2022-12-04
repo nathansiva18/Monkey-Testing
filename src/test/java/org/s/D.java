@@ -19,6 +19,12 @@ public class D {
 	private void sathish() {
 		System.out.println("kumar");
 	}
+	private void mario() {
+		System.out.println("mario");
+	}
+	private void island() {
+		System.out.println("runner");
+	}
 	
 
 }
