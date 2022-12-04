@@ -33,5 +33,9 @@ public class D {
     private void island() {
 	System.out.println("runner");
 }
-
+	}
+	public void kumfuPanda()
+	{
+		System.out.println("jagades method 3");
+	}
 }
