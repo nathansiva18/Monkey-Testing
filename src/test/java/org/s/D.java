@@ -19,6 +19,17 @@ public class D {
 	private void sathish() {
 		System.out.println("kumar");
 	}
+	public void loganthan()
+	{
+		System.out.println("jagades method 1");
+	}
+	public void sathishm2()
+	{
+		System.out.println("jagades method 2");
+	}
+
 	
+	
+
 
 }
