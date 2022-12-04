@@ -32,6 +32,12 @@ public class D {
     }
     private void island() {
 	System.out.println("runner");
-}
+    }
+    private void contraFireWorld() {
+		System.out.println("5");
+	}
+    private void greenKnight() {
+		System.out.println("6.1");
+	}
 
 }
