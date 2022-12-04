@@ -38,6 +38,13 @@ public class D {
 	{
 		System.out.println("jagades method 3");
 	}
+}
+private void contraFireWorld() {
+	System.out.println("5");
+}
+private void greenKnight() {
+	System.out.println("6.1");
+}
 	public void kumfuPandav2()
 	{
 		System.out.println("jagades method 4");
