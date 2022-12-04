@@ -67,4 +67,7 @@ public void BlackPearl()
 {
 	System.out.println("Captain Jack sparrow");
 }
+private void wicked() {
+	System.out.println("wagner");
+}
 }
