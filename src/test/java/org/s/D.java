@@ -19,12 +19,19 @@ public class D {
 	private void sathish() {
 		System.out.println("kumar");
 	}
-	private void mario() {
-		System.out.println("mario");
+	public void loganthan()
+	{
+		System.out.println("jagades method 1");
 	}
-	private void island() {
-		System.out.println("runner");
-	}
-	
+	public void sathishm2()
+	{
+		System.out.println("jagades method 2");
+	}	
+    private void mario() {
+	    System.out.println("mario");
+    }
+    private void island() {
+	System.out.println("runner");
+}
 
 }
