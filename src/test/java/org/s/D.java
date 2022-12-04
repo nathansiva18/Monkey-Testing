@@ -27,7 +27,10 @@ public class D {
 	{
 		System.out.println("jagades method 2");
 	}
-
+	public void kumfuPanda()
+	{
+		System.out.println("jagades method 3");
+	}
 	
 	
 
